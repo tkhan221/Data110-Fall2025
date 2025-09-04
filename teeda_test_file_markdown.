@@ -1,3 +1,4 @@
+#title
 ## title
 ### title
 #### title
@@ -31,30 +32,8 @@ This one is normal
   - Nested item 2
 - Third item
 
+The Pythagorean theorem:$$a^2 + b^2 = c^2$$
 
-Text above the line
-  ---
+The Pythagorean theorem:
 
-Text below the line
-[Montgomery College][mc-link] is a great institution.
-
-[mc-link]: https://www.montgomerycollege.edu
-![Montgomery College Logo](MClogo.png)](https://www.montgomerycollege.edu)
-
-Code Blocks
-Inline Code
-
-Use the print() function to output text in Python.
-
-Markdown Syntax:
-
-Use the `print()` function to output text in Python.
-
-Horizontal Lines
-Images as Links [ ![Montgomery College Logo ]( MClogo.png )]( https://www.montgomerycollege.edu ) 
-
-
-
-
-
-
+$$a^2 + b^2 = c^2$$
