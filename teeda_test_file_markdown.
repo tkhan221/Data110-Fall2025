@@ -25,11 +25,33 @@ This one is normal
     1. new one
     2. new two
 
+- First item
+- Second item
+  - Nested item 1
+  - Nested item 2
+- Third item
+
+
 Text above the line
   ---
 
 Text below the line
+[Montgomery College][mc-link] is a great institution.
 
+[mc-link]: https://www.montgomerycollege.edu
+![Montgomery College Logo](MClogo.png)](https://www.montgomerycollege.edu)
+
+Code Blocks
+Inline Code
+
+Use the print() function to output text in Python.
+
+Markdown Syntax:
+
+Use the `print()` function to output text in Python.
+
+Horizontal Lines
+Images as Links [ ![Montgomery College Logo ]( MClogo.png )]( https://www.montgomerycollege.edu ) 
 
 
 
