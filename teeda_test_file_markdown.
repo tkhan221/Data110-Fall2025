@@ -32,8 +32,36 @@ This one is normal
   - Nested item 2
 - Third item
 
-The Pythagorean theorem:$$a^2 + b^2 = c^2$$
+Text above line
+     ---
 
-The Pythagorean theorem:
 
-$$a^2 + b^2 = c^2$$
+                Linear algebra is key in data science applications.
+                [^1][1] Muhammad & Saidi (2024), Scatterplot, 1
+
+Checklists
+
+    [ ] Unchecked item
+    [x] Checked item
+    [ ] Another unchecked item
+
+
+                        - [ ] Unchecked item
+                        - [x] Checked item
+                        - [ ] Another unchecked item
+
+Basic Table
+Header 1 	Header 2
+Row 1, Col 1 	Row 1, Col 2
+Row 2, Col 1 	Row 2, Col 2
+Markdown Syntax:
+
+| Header 1 | Header 2 |
+|----------|----------|
+| Row 1, Col 1 | Row 1, Col 2 |
+| Row 2, Col 1 | Row 2, Col 2 |
+
+Linear algebra is key in data science applications. [1] [1] Muhammad & Saidi (2024), Scatterplot, 1(1). Linear algebra is key in data science applications. [^1] Muhammad & Saidi (2024), Scatterplot, 1(1). 
+***
+
+__
